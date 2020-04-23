@@ -1,0 +1,3 @@
+rootProject.name='ExpandingAdapter'
+include ':app'
+include ':mobile_component_library'

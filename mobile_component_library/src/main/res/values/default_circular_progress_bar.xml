@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color">#FFFFFF</color>
+    <dimen name="stroke_width">2dp</dimen>
+    <item name="sweep_speed" format="float" type="string">1</item>
+    <item name="rotation_speed" format="float" type="string">1</item>
+    <integer name="min_sweep_angle" type="integer">20</integer>
+    <integer name="max_sweep_angle" type="integer">300</integer>
+</resources>

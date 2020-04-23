@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_black">#000000</color>
+    <color name="text_black_enables">#66000000</color>
+    <color name="blackout">#1A000000</color>
+
+    <color name="colorPrimary">#18BDD6</color>
+    <color name="colorPrimaryDark">#0F6088</color>
+    <color name="colorAccent">#FF6284</color>
+    <color name="windowBackground">#51D1E2</color>
+</resources>
